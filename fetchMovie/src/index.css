@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  /* background-color: #272727; */
+  background-image: url("https://images4.alphacoders.com/573/57394.jpg");
+  background-repeat: no-repeat;
+ background-size: cover;
+  background-position: center;
+  width:100%;
+  /* background-color: antiquewhite; */
+  
+}
